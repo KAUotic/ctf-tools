@@ -8,5 +8,7 @@
 
 ## [Network Scanning and Vulnerability Detection](network-scanning-vulnerability-detection)
 
+## [Online Dictionary Attacks](online-dictionary-attacks)
+
 ## Wikis
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
