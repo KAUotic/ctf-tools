@@ -12,5 +12,7 @@
 
 ## [Post-Exploitation](post-exploitation)
 
+## [Traffic Interception and Client-Side Attacks](traffic-interception-client-side-attacks)
+
 ## Wikis
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
