@@ -10,5 +10,7 @@
 
 ## [Online Dictionary Attacks](online-dictionary-attacks)
 
+## [Post-Exploitation](post-exploitation)
+
 ## Wikis
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
