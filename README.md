@@ -14,5 +14,9 @@
 
 ## [Traffic Interception and Client-Side Attacks](traffic-interception-client-side-attacks)
 
+## [Encoding and Decoding](encoding-decoding)
+
+## [Data Forensics](data-forensics)
+
 ## Wikis
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
