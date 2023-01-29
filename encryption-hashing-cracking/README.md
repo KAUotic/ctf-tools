@@ -13,3 +13,4 @@
 - [hashcat](https://hashcat.net/hashcat/)
 - [John the Ripper](https://www.openwall.com/john/)
 - [Crackstation](https://crackstation.net/)
+
